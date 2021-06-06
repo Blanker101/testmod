@@ -1,0 +1,10 @@
+type: wall
+name: Copper Barrier
+description: A sturdy copper barrier that takes up 3x3 space
+research: {
+  parent: copper-wall-large
+  requirements: [
+    copper/1000
+  ]
+} file sprites/blocks/copperbarrier.png
+myBlock.health = 1540;

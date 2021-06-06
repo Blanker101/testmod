@@ -1,0 +1,10 @@
+type: wall
+name: Titanium Barrier
+description: A very sturdy titanium barrier that takes up a 3x3 space
+research: {
+  parent: titanium-wall-large
+  requirements: [
+    titanium/1000
+  ]
+} file sprites/blocks/titaniumbarrier.png
+myBlock.health = 1920;

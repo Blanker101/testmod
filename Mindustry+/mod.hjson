@@ -1,0 +1,8 @@
+name: "mindustryplus"
+displayName: "Mindustry Plus"
+author: BlankName
+description: "Adds new content blocks and materials"
+version: "1.0"
+minGameVersion: "126.2"
+dependencies: [ ]
+hidden: false
